@@ -1,0 +1,1 @@
+# Furnitrack-QT-based-platform
